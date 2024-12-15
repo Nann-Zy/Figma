@@ -1,4 +1,9 @@
+Note : Main nya ke panggil di local host, tapi di vercel tidak, akan secepatnya di perbaiki
+
+
+
 # React + Vite
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
